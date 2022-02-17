@@ -1,3 +1,18 @@
 .incomesection{
     background-color: #F8F8F8;
 }
+.notify {
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    background: #22243685;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    padding: 5px;
+    display: none;
+}
+.notify-section{
+    width: 80%;
+    margin: 0 auto;
+}
