@@ -65,6 +65,7 @@ document.getElementById("saveButton").addEventListener('click', function () {
     if (isNaN(savingValueText)) {
         notifyFail2.style.display = 'block';
     }
+
     else {
         notifyFail1.style.display = 'none';
         // get saving InnerText
